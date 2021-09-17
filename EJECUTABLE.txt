@@ -1,0 +1,4 @@
+De presentar problemas con la ejecución del código, es posible obtener el ejecutable
+del programa (debe tener Python instalado en su equipo):
+*Descomprimir y abrir "RTES.exe"
+https://drive.google.com/file/d/1wSYa6OqLfBwbNZsW7bKJBIon-k1hRzD3/view?usp=sharing
